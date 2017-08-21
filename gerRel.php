@@ -117,10 +117,10 @@ class Application_Models_Certificados
 
   
     /**
-      * Consulta SOAP totvs e retorna o filtro usado para gerar o relatório
+      * Consulta SOAP totvs e retorna O RELATÓRIO
       * já inserindo o parametro para gerar o relatório
       */
-    public function GetReportInfo($idRelatorio, $idcertificado){
+    public function GetReport($idRelatorio, $idcertificado){
         
         $function = 'GetReportInfo';
         $arguments= array('GetReportInfo' => array(
