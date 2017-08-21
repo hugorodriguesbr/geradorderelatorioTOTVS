@@ -8,11 +8,11 @@ Como exemplo um gerador de certificados.
 Você precisa ter um relatório pronto no TOTVS sem filtro.
 Utilizar ZEND Framework e incluir este módulo.
 
-### Prerequisites
+### Pré-requisito
 
 PHP 5 or >
 
-### Installing
+### Instalando
 
 INSTALAR ZEND
 INCLUIR este código como novo módulo.
